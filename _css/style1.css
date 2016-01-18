@@ -1,6 +1,6 @@
 body 	{
 	box-sizing: border-box;
-	background-color: #424242;
+	background-color: #111111;
 	margin-top: 0px;
 }
 
@@ -23,14 +23,6 @@ body 	{
 }
 
 
-.content_main	{
-	/*width: 100%;*/
-	min-height: 300px;
-	background-color: white;
-	text-align: center;
-	padding: 200px 30px 30px 30px;
-/*	background-image: url("../_images/bg-content.jpg");
-*/}
 
 
 
@@ -64,6 +56,22 @@ ul {
     margin: 0;
 }
 
+
+
+.content_main	{
+	/*width: 100%;*/
+	min-height: 300px;
+	background-color: white;
+	text-align: center;
+	}
+
+
+.content_one	{
+	width: 1000px;
+	min-height: 300px;
+	background-color: red;
+	text-align: center;
+}
 
 h1	{
 	font-family: "Helvetica", "sans-serif";
@@ -99,3 +107,47 @@ h5	{
 	background-color: #52c0a7;
 	/*background-image: url("../_images/waveheader.jpg");*/
 }
+
+
+
+/* modal pop up bananas */
+
+#surprise	{
+	position: absolute;
+	width: 700px;
+	height: 500px;
+	border-radius: 10px;
+	background-color: orange;
+	margin-top: 100px;
+	margin-left: 150px;
+}
+
+#exit	{
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	/*background-color: white;*/
+	margin: 10px 630px;
+	color: #111111;
+	font-size: 42px;
+	font-family: "Arial", sans-serif;
+	text-align: center;
+	border-radius: 10px;
+}
+
+#exit	a  {
+	color: #111111;
+	text-decoration: none;
+}
+
+#exit	a:hover  {
+	color: #999999;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
