@@ -1,0 +1,30 @@
+body 	{
+	box-sizing: border-box;
+	background-color: #424242;
+	margin-top: 0px;
+}
+
+#container	{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.header	{
+	width: 1000px;
+	height: 100px;
+	background-color: #52c0a7;
+	/*background-image: url("../_images/waveheader.jpg");*/
+}
+
+
+.footer	{
+	width: 1000px;
+	height: 300px;
+	color: white;
+	font-family: "Verdana";
+	font-size: 12px;
+	text-align: center;
+	padding-top: 20px;
+	background-color: #52c0a7;
+	/*background-image: url("../_images/waveheader.jpg");*/
+}
