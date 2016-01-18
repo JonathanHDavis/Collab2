@@ -1,0 +1,154 @@
+.ImageGallery {
+	float: left;
+	width: 500px;
+	height: 500px;
+	background-image: url("PracticePuppy.png");
+	background-size: cover;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
+.test1 {
+	float: left;
+	width: 500px;
+	height: 500px;
+	background-size: cover;
+	margin-top: 5px;
+	margin-left: 5px;
+	background-color: white;
+	opacity: .5;
+	text-align: center;
+}
+
+.hidden1 {
+	visibility: hidden;
+}
+
+.test2 {
+	float: left;
+	width: 500px;
+	height: 500px;
+	background-size: cover;
+	margin-top: 5px;
+	margin-left: 5px;
+	background-color: white;
+	opacity: .5;
+	text-align: center;
+}
+
+.hidden2 {
+	visibility: hidden;
+}
+
+.test3 {
+	float: left;
+	width: 500px;
+	height: 500px;
+	background-size: cover;
+	margin-top: 5px;
+	margin-left: 5px;
+	background-color: white;
+	opacity: .5;
+	text-align: center;
+}
+
+.hidden3 {
+	visibility: hidden;
+}
+
+.test4 {
+	float: left;
+	width: 500px;
+	height: 500px;
+	background-size: cover;
+	margin-top: 5px;
+	margin-left: 5px;
+	background-color: white;
+	opacity: .5;
+	text-align: center;
+}
+
+.hidden4 {
+	visibility: hidden;
+}
+
+.test5 {
+	float: left;
+	width: 500px;
+	height: 500px;
+	background-size: cover;
+	margin-top: 5px;
+	margin-left: 5px;
+	background-color: white;
+	opacity: .5;
+	text-align: center;
+}
+
+.hidden5 {
+	visibility: hidden;
+}
+
+.test6 {
+	float: left;
+	width: 500px;
+	height: 500px;
+	background-size: cover;
+	margin-top: 5px;
+	margin-left: 5px;
+	background-color: white;
+	opacity: .5;
+	text-align: center;
+}
+
+.hidden6 {
+	visibility: hidden;
+}
+
+.test7 {
+	float: left;
+	width: 500px;
+	height: 500px;
+	background-size: cover;
+	margin-top: 5px;
+	margin-left: 5px;
+	background-color: white;
+	opacity: .5;
+	text-align: center;
+}
+
+.hidden7 {
+	visibility: hidden;
+}
+
+.test8 {
+	float: left;
+	width: 500px;
+	height: 500px;
+	background-size: cover;
+	margin-top: 5px;
+	margin-left: 5px;
+	background-color: white;
+	opacity: .5;
+	text-align: center;
+}
+
+.hidden8 {
+	visibility: hidden;
+}
+
+.test9 {
+	float: left;
+	width: 500px;
+	height: 500px;
+	background-size: cover;
+	margin-top: 5px;
+	margin-left: 5px;
+	background-color: white;
+	opacity: .5;
+	text-align: center;
+}
+
+.hidden9 {
+	visibility: hidden;
+}
+
