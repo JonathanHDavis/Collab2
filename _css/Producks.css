@@ -1,3 +1,57 @@
+body 	{
+	box-sizing: border-box;
+	background-color: #111111;
+	margin-top: 0px;
+}
+
+#container	{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.header	{
+	width: 1000px;
+	height: 100px;
+	background-color: #52c0a7;
+	/*background-image: url("../_images/waveheader.jpg");*/
+}
+
+
+.hdrimg	{
+	padding: 10px;
+	float: left;
+}
+
+.nav_main	{
+	color: white;
+	padding-top: 65px;
+	padding-left: 20px;
+	float: left;
+}
+
+li	{
+	display: inline;
+	padding-right: 50px;
+}
+
+.nav_bar a	{
+	font-family: "Helvetica", "sans-serfif";
+	font-size: 16px;
+	color: white;
+	text-decoration: none;
+}
+
+.nav_bar	a:hover {
+	color: #d44601;
+	text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
 .ImageGallery1 {
 	float: left;
 	width: 500px;
@@ -90,13 +144,14 @@
 .test1 {
 	float: left;
 	width: 500px;
-	height: 500px;
+	height: 250px;
 	background-size: cover;
 	margin-top: 5px;
 	margin-left: 5px;
 	background-color: white;
 	opacity: .5;
 	text-align: center;
+	padding-top: 250px;
 }
 
 .hidden1 {
@@ -106,13 +161,14 @@
 .test2 {
 	float: left;
 	width: 500px;
-	height: 500px;
+	height: 250px;
 	background-size: cover;
 	margin-top: 5px;
 	margin-left: 5px;
 	background-color: white;
 	opacity: .5;
 	text-align: center;
+	padding-top: 250px;
 }
 
 .hidden2 {
@@ -122,13 +178,14 @@
 .test3 {
 	float: left;
 	width: 500px;
-	height: 500px;
+	height: 250px;
 	background-size: cover;
 	margin-top: 5px;
 	margin-left: 5px;
 	background-color: white;
 	opacity: .5;
 	text-align: center;
+	padding-top: 250px;
 }
 
 .hidden3 {
@@ -138,13 +195,14 @@
 .test4 {
 	float: left;
 	width: 500px;
-	height: 500px;
+	height: 250px;
 	background-size: cover;
 	margin-top: 5px;
 	margin-left: 5px;
 	background-color: white;
 	opacity: .5;
 	text-align: center;
+	padding-top: 250px;
 }
 
 .hidden4 {
@@ -154,13 +212,14 @@
 .test5 {
 	float: left;
 	width: 500px;
-	height: 500px;
+	height: 250px;
 	background-size: cover;
 	margin-top: 5px;
 	margin-left: 5px;
 	background-color: white;
 	opacity: .5;
 	text-align: center;
+	padding-top: 250px;
 }
 
 .hidden5 {
@@ -170,13 +229,14 @@
 .test6 {
 	float: left;
 	width: 500px;
-	height: 500px;
+	height: 250px;
 	background-size: cover;
 	margin-top: 5px;
 	margin-left: 5px;
 	background-color: white;
 	opacity: .5;
 	text-align: center;
+	padding-top: 250px;
 }
 
 .hidden6 {
@@ -186,13 +246,14 @@
 .test7 {
 	float: left;
 	width: 500px;
-	height: 500px;
+	height: 250px;
 	background-size: cover;
 	margin-top: 5px;
 	margin-left: 5px;
 	background-color: white;
 	opacity: .5;
 	text-align: center;
+	padding-top: 250px;
 }
 
 .hidden7 {
@@ -202,13 +263,14 @@
 .test8 {
 	float: left;
 	width: 500px;
-	height: 500px;
+	height: 250px;
 	background-size: cover;
 	margin-top: 5px;
 	margin-left: 5px;
 	background-color: white;
 	opacity: .5;
 	text-align: center;
+	padding-top: 250px;
 }
 
 .hidden8 {
@@ -218,13 +280,14 @@
 .test9 {
 	float: left;
 	width: 500px;
-	height: 500px;
+	height: 250px;
 	background-size: cover;
 	margin-top: 5px;
 	margin-left: 5px;
 	background-color: white;
 	opacity: .5;
 	text-align: center;
+	padding-top: 250px;
 }
 
 .hidden9 {
