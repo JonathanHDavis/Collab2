@@ -1,5 +1,5 @@
 $(document).ready(
 	function() {
-		$("h3").animate({fontSize: "35px"}, 2000);
+		$("#Quacked").animate({fontSize: "35px"}, 1000).animate({fontSize: "21px"}, 1000);
 	}
 	);
