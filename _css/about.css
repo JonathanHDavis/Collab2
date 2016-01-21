@@ -31,7 +31,7 @@ h3	{
 	margin-left: 5px;
 	font-family: "Helvetica", "sans-serif";
 	font-size: 17px;
-	color: #ed5628;
+	color: #888888;
 	margin-bottom: 5px;
 }
 
@@ -119,15 +119,17 @@ ul {
 	background-size: cover;
 	margin: 5px;
 	border-radius: 20px;
+	border: 1px;
+	border-style: solid;
+	border-color: #ed5628;
 }
 
 #SplashOn {
 	margin-top: 10px;
 	font-family: "Helvetica", "sans-serif";
-	font-size: 42px;
+	font-size: 17px;
 	font-weight: bold;
-	color: #242d3c;
-	text-align: center;
+	color: #888888;
 }
 
 p {
