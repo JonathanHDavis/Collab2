@@ -13,7 +13,7 @@ light grey: #cdcac8;  */
 
 body 	{
 	box-sizing: border-box;
-	background-color: #cdcac8;
+	background-color: #888888;
 	margin-top: 0px;
 }
 
@@ -85,6 +85,7 @@ li	{
 	min-height: 300px;
 	background-color: white;
 	text-align: center;
+	background-image: url("../_images/Summer.jpg");
 }
 
 .content_two	{
@@ -92,7 +93,15 @@ li	{
 	min-height: 300px;
 	background-color: white;
 	text-align: center;
-	background-image: url("../_images/DuckFest.jpg");
+	background-image: url("../_images/DuckFest2.jpg");
+}
+
+.content_three	{
+	width: 1000px;
+	min-height: 300px;
+	background-color: white;
+	text-align: center;
+	background-image: url("../_images/Halloween.jpg");
 }
 
 h1	{
@@ -147,8 +156,8 @@ h5	{
 	position: absolute;
 	width: 500px;
 	height: 300px;
-	border: 13px solid #ed5628;
-	color: #ed5628;
+	border: 5px solid #ed5628;
+	color: #242d3c;
 	background-color: white;
 	border-radius: 10px;
 	margin-top: 100px;

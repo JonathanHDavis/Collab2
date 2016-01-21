@@ -1,6 +1,6 @@
 body 	{
 	box-sizing: border-box;
-	background-color: #cdcac8;
+	background-color: #888888;
 	margin-top: 0px;
 }
 
@@ -31,7 +31,7 @@ h3	{
 	margin-left: 5px;
 	font-family: "Helvetica", "sans-serif";
 	font-size: 17px;
-	color: #888888;
+	color: #444444;
 	margin-bottom: 5px;
 }
 
@@ -129,7 +129,7 @@ ul {
 	font-family: "Helvetica", "sans-serif";
 	font-size: 17px;
 	font-weight: bold;
-	color: #888888;
+	color: #444444;
 }
 
 p {
