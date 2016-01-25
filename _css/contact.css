@@ -11,7 +11,7 @@ light grey: #cdcac8;  */
 
 body 	{
 	box-sizing: border-box;
-	background-color: #cdcac8;
+	background-color: #888888;
 	margin-top: 0px;
 }
 
@@ -131,24 +131,37 @@ h5	{
 	text-align: left;
 	margin-top: 30px;
 	text-decoration: none;
-
+	color: #1eb1b6;
 }
 
-a:link {
-    text-decoration: none;
-    color: #1eb1b6;
 
+
+#contact_text2  a { 
+	text-decoration: none;
+	color: #1eb1b6;
+}
+
+
+#contact_text2  a:hover { 
+	text-decoration: none;
+	color: #ed5628;
+}
+
+
+
+/*a:link {
+    text-decoration: none;
 }
 
 a:visited {
     text-decoration: none;
-    color: #1eb1b6;
+    color: #1eb1b6;*/
 }
 
-p:hover, h3:hover, a:hover {
+/*p:hover, h3:hover, a:hover {
     color: #ed5628;;
 }
-
+*/
 
 
 	

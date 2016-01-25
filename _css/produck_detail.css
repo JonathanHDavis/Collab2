@@ -11,7 +11,7 @@ light grey: #cdcac8;  */
 
 body 	{
 	box-sizing: border-box;
-	background-color: #cdcac8;
+	background-color: #888888;
 	margin-top: 0px;
 }
 
@@ -139,15 +139,14 @@ h5	{
 }
 
 .product_preview {
-
-	height: 300px;
+	height: 310px;
 	width: 1000px;
 	bottom: 0;
-	margin-top: 500px;
-	background-color: #888888;
+	margin-top: 510px;
+	padding-top: 10px;
+	background-color: #cdcac8	;
 	font-family: verdana;
 	color: #242d3c;
-
 }
 
 p {

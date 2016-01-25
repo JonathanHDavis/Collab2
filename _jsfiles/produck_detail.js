@@ -1,17 +1,17 @@
 	$(document).ready(
 		function(){
 
-	$("#post_purchase").hide();
+		$("#post_purchase").hide();
 
 
-	
+		
 
 
-	$("#button").click(
-			function(){
-				$("#post_purchase").show();
-			}
-		);
+		$("#button").click(
+				function(){
+					$("#post_purchase").show();
+				}
+			);
 
 
 	}
